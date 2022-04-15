@@ -1,0 +1,16 @@
+{
+  "favorites": [
+    {
+      "link": "https://www.asos.com/fr/the-north-face/the-north-face-berkley-california-t-shirt-a-poche-bleu-marine/prd/24351742?clr=marine&colourWayId=60560746&cid=7616",
+      "alertPricePromo": ["-50%", "-20%"]
+    },
+    {
+      "link": "https://www.asos.com/fr/lacoste/lacoste-t-shirt-a-logo-bleu-marine/prd/201947518?clr=bleu-marine&colourWayId=201947543&cid=7616",
+      "alertPricePromo": ["-50%", "-20%"]
+    },
+    {
+      "link": "https://www.asos.com/fr/the-north-face/the-north-face-tka-glacier-pantalon-jaune/prd/13069948",
+      "alertPricePromo": ["-50%", "-20%"]
+    }
+  ]
+}
